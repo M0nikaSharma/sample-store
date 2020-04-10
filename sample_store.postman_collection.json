@@ -538,7 +538,7 @@
 		{
 			"id": "fb418e8e-03f6-4f15-b76c-a193f0bc6bf4",
 			"key": "baseUrl",
-			"value": "http://dev.apim.wso2/samplestore",
+			"value": "http://www.mocky.io/v2/5e904bf5330000741327d667",
 			"type": "string"
 		}
 	],
