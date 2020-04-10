@@ -68,7 +68,7 @@
 									"});",
 									"",
 									"",
-									"pm.globals.set(\"no_of_products\", jsonData.list.length);"
+									"pm.globals.set(\"no_of_products\", 0);"
 								],
 								"type": "text/javascript"
 							}
@@ -538,7 +538,7 @@
 		{
 			"id": "fb418e8e-03f6-4f15-b76c-a193f0bc6bf4",
 			"key": "baseUrl",
-			"value": "http://www.mocky.io/v2/5e905022330000218b27d692",
+			"value": "http://www.mocky.io/v2/5e905118330000218b27d69f",
 			"type": "string"
 		}
 	],
