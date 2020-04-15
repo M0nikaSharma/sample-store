@@ -4,7 +4,7 @@ info:
   description: This is a sample server online store
   version: 1.0.0
 servers:
-- url: http://localhost:9090/samplestore
+- url: http://www.mocky.io/v2/5e905118330000218b27d69f
 paths:
   /products:
     get:
@@ -146,5 +146,4 @@ components:
           description: Error message.
         description:
           type: string
-          description: |
-            A detail description about the error message.
+          description: A detail description about the error message.

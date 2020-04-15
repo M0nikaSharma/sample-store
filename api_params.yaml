@@ -2,20 +2,20 @@ environments:
   - name: dev
     endpoints:
       production:
-        url: http://dev.wso2.com:9090/samplestore
+        url: http://www.mocky.io/v2/5e905118330000218b27d69f
         config:
-          retryTimeOut: $RETRY
+          retryTimeOut: 80
       sandbox:
-        url: http://dev.sandbox.wso2.com:9090/samplestore
+        url: http://www.mocky.io/v2/5e905118330000218b27d69f
         config:
-          retryTimeOut: $RETRY        
+          retryTimeOut: 80        
   - name: prod
     endpoints:
       production:
-        url: http://prod.wso2.com:9090/samplestore
+        url: http://www.mocky.io/v2/5e905118330000218b27d69f
         config:
-          retryTimeOut: $RETRY      
+          retryTimeOut: 80      
       sandbox:
-        url: http://prod.sandbox.wso2.com:9090/samplestore
+        url: http://www.mocky.io/v2/5e905118330000218b27d69f
         config:
-          retryTimeOut: $RETRY      
+          retryTimeOut: 80
