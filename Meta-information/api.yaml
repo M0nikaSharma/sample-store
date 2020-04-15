@@ -2,7 +2,7 @@ id:
   providerName: admin
   apiName: SampleStore
   version: 1.0.0
-description: This is a petstore demo
+description: This is a petstore demo 2
 type: HTTP
 context: /SampleStore/1.0.0
 contextTemplate: /SampleStore/{version}
