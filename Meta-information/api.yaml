@@ -4,8 +4,8 @@ id:
   version: 1.0.0
 description: This is a petstore demo
 type: HTTP
-context: /Sample Store/1.0.0
-contextTemplate: /Sample Store/{version}
+context: /SampleStore/1.0.0
+contextTemplate: /SampleStore/{version}
 availableTiers:
 - name: Unlimited
 - name: Bronze
