@@ -2,10 +2,10 @@ id:
   providerName: admin
   apiName: SampleStore
   version: 1.0.0
-description: This is a petstore demo 2
+description: Sample for petstore
 type: HTTP
-context: /SampleStore/1.0.0
-contextTemplate: /SampleStore/{version}
+context: /Sample Store/1.0.0
+contextTemplate: /Sample Store/{version}
 availableTiers:
 - name: Unlimited
 - name: Bronze

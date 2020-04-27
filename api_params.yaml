@@ -18,4 +18,4 @@ environments:
       sandbox:
         url: http://www.mocky.io/v2/5e905118330000218b27d69f
         config:
-          retryTimeOut: 80
+          retryTimeOut: 80      
