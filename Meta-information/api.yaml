@@ -2,7 +2,7 @@ id:
   providerName: admin
   apiName: SampleStore
   version: 1.0.0
-description: This is a sample server online store
+description: awesome description
 type: HTTP
 context: /SampleStore/1.0.0
 contextTemplate: /SampleStore/{version}
