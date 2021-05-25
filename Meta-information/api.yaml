@@ -9,7 +9,7 @@ contextTemplate: /SampleStore/{version}
 availableTiers:
 - name: Unlimited
 - name: Bronze
-status: published
+status: CREATED
 visibility: public
 transports: http,https
 productionUrl: http://localhost:8080
